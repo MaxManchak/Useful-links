@@ -75,6 +75,7 @@
 
 ### - Бесплатные стоковые фотографии
 
+[Pixambo](http://pixambo.com/)  
 [Stock Up](http://www.sitebuilderreport.com/stock-up) - Лучшие бесплатные стоковые фотографии с разных веб-сайтов в одном месте.   
 [Pexels](http://www.pexels.com/) - Лучшие бесплатные фото в одном месте.   
 [All The Free Stock ](http://allthefreestock.com/) - Бесплатные стоковые изображения, иконки и видео.   
